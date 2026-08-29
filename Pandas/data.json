@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "age": 22,
+        "city": "Lahore",
+        "course": "Python",
+        "score": 85
+    },
+    {
+        "id": 2,
+        "name": "Ayesha",
+        "age": 21,
+        "city": "Islamabad",
+        "course": "Pandas",
+        "score": 92
+    },
+    {
+        "id": 3,
+        "name": "Hamza",
+        "age": 23,
+        "city": "Karachi",
+        "course": "NumPy",
+        "score": 78
+    },
+    {
+        "id": 4,
+        "name": "Sara",
+        "age": 20,
+        "city": "Okara",
+        "course": "Python",
+        "score": 88
+    },
+    {
+        "id": 5,
+        "name": "Usman",
+        "age": 24,
+        "city": "Multan",
+        "course": "Pandas",
+        "score": 95
+    },
+    {
+        "id": 6,
+        "name": "Hina",
+        "age": 22,
+        "city": "Faisalabad",
+        "course": "NumPy",
+        "score": 73
+    },
+    {
+        "id": 7,
+        "name": "Bilal",
+        "age": 25,
+        "city": "Lahore",
+        "course": "Python",
+        "score": 81
+    },
+    {
+        "id": 8,
+        "name": "Maham",
+        "age": 21,
+        "city": "Rawalpindi",
+        "course": "Pandas",
+        "score": 89
+    },
+    {
+        "id": 9,
+        "name": "Zain",
+        "age": 23,
+        "city": "Okara",
+        "course": "Python",
+        "score": 76
+    },
+    {
+        "id": 10,
+        "name": "Iqra",
+        "age": 20,
+        "city": "Islamabad",
+        "course": "NumPy",
+        "score": 91
+    },
+    {
+        "id": 11,
+        "name": "Ahmed",
+        "age": 26,
+        "city": "Karachi",
+        "course": "Pandas",
+        "score": 68
+    },
+    {
+        "id": 12,
+        "name": "Fatima",
+        "age": 22,
+        "city": "Multan",
+        "course": "Python",
+        "score": 97
+    }
+]
