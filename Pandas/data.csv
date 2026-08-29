@@ -1,0 +1,13 @@
+id,name,age,city,course,score
+1,Ali,22,Lahore,Python,85
+2,Ayesha,21,Islamabad,Pandas,92
+3,Hamza,23,Karachi,NumPy,78
+4,Sara,20,Okara,Python,88
+5,Usman,24,Multan,Pandas,95
+6,Hina,22,Faisalabad,NumPy,73
+7,Bilal,25,Lahore,Python,81
+8,Maham,21,Rawalpindi,Pandas,89
+9,Zain,23,Okara,Python,76
+10,Iqra,20,Islamabad,NumPy,91
+11,Ahmed,26,Karachi,Pandas,68
+12,Fatima,22,Multan,Python,97
